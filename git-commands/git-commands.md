@@ -6,3 +6,6 @@
 
 **git commit** = _confirmar mudanças._
 
+**git status** = _monitorar status dos arquivos._
+
+ 
